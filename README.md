@@ -42,5 +42,6 @@ Each lab folder contains:
 
 ## Connect
 
-- LinkedIn: [your LinkedIn URL]
-- Upwork: [your Upwork URL]
+- LinkedIn: www.linkedin.com/in/
+adebayo-oluwasegun-3202b9146
+- Upwork: https://www.upwork.com/freelancers/~01e6e22b20b3818541?mp_source=share
